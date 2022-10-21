@@ -1,2 +1,2 @@
 # HelloWorld
-这是第一个Android应用程序。
+创建一个空文档，实现简单的helloword程序
